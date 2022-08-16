@@ -29,6 +29,9 @@
 ![](https://komarev.com/ghpvc/?username=sourabh080299&color=green)
 <hr/>
 
+## Language Usage ~ Status
+![Top Langs](https://github-readme-stats.aemiej.vercel.app/api/top-langs/?username=sourabh080299&theme=dark&layout=compact&show_icons=true&hide_border=true&private=true)
+
 ### Connect with me
 [<img align="left" alt="LinkedIn" width="80" src="https://github.com/melanieshi0120/melanieshi0120/blob/master/linkedin.ico" />]( https://www.linkedin.com/in/sourabh080299/)
 [<img align="left" alt="mail" width="40" src="./mail.jpg" />](<mailto:psourabh080299@gmail.com>)
