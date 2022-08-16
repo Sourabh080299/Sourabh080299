@@ -32,7 +32,7 @@
 ### Connect with me
 
 [<img align="left" alt="LinkedIn" width="80" src="https://github.com/melanieshi0120/melanieshi0120/blob/master/linkedin.ico" />](https://www.linkedin.com/in/sourabh080299/)
-[<img align="left" alt="mail" width="40" src="./mail.jpg" />](<mailto:psourabh080299@gmail.com>)]
+[<img align="left" alt="mail" width="40" src="./mail.jpg" />](<mailto:psourabh080299@gmail.com>)
 <br />
 <!--
 **Sourabh080299/Sourabh080299** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
