@@ -6,7 +6,7 @@
 - 🔭 I am interested in full stack development
 - 🏋 Trying to master DSA and Development
 - 👨‍💻 All of my projects are available at https://github.com/Sourabh080299
-- 📫 How to reach me: [Gmail - @sarvesh](mailto:psourabh080299@gmail.com)
+- 📫 How to reach me: [Gmail - @psourabh080299](mailto:psourabh080299@gmail.com)
 -⚡ Fun fact **Cricket is Love**
 
 ### Languages and Tools
