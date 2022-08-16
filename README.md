@@ -22,6 +22,19 @@
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+<br />
+<br />
+<hr/>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sourabh080299)](https://github.com/anuraghazra/github-readme-stats)<br/><br/>
+![](https://komarev.com/ghpvc/?username=sourabh080299&color=green)
+<hr/>
+
+### Connect with me
+
+[<img align="left" alt="LinkedIn" width="80" src="https://github.com/melanieshi0120/melanieshi0120/blob/master/linkedin.ico" />](https://www.linkedin.com/in/sourabh080299/)
+[<img align="left" alt="mail" width="40" src="./mail.jpg" />](<mailto:psourabh080299@gmail.com>)
+<br />
 <!--
 **Sourabh080299/Sourabh080299** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
