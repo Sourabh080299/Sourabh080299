@@ -2,7 +2,7 @@
 
 ## Introduction
 - 👨‍ Hey! My name is Sourabh Patel 
-- 👨‍💻 I am a final year Computer Science and Enginnering student at NIT Surat
+- 👨‍💻 I am a final year Computer Science and Engineering student at NIT Surat
 - 🔭 I am interested in full stack development
 - 🏋 Trying to master DSA and Development
 - 👨‍💻 All of my projects are available at https://github.com/Sourabh080299
