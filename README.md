@@ -1,5 +1,5 @@
 # Hey, I'm Sourabh Patel! Welcome to my profile <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-
+![](https://komarev.com/ghpvc/?username=sourabh080299&color=green)
 ## Introduction 
 - 👨‍💻 I am a final year Computer Science and Engineering student at NIT Surat
 - 🔭 I am interested in full stack development
@@ -26,7 +26,7 @@
 
 ## Profile Views 
 [![Sourabh's GitHub stats](https://github-readme-stats.vercel.app/api?username=sourabh080299)](https://github.com/anuraghazra/github-readme-stats)<br/><br/>
-![](https://komarev.com/ghpvc/?username=sourabh080299&color=green)
+
 <hr/>
 
 ## Language Usage ~ Status
