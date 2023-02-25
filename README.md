@@ -1,10 +1,9 @@
-# Hey there! Welcome to my profile <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Hey, I'm Sourabh Patel! Welcome to my profile <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-## Introduction
-- 👨‍ Hey! My name is Sourabh Patel 
+## Introduction 
 - 👨‍💻 I am a final year Computer Science and Engineering student at NIT Surat
 - 🔭 I am interested in full stack development
-- 🏋 Trying to master DSA and Development
+- 🏋 Trying to master DSA and Web Development
 - 👨‍💻 All of my projects are available at https://github.com/Sourabh080299
 - ⚡ Fun fact **Cricket is Love**
 
