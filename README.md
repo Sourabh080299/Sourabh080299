@@ -32,12 +32,12 @@
 
 ## Language Usage ~ Status
 ![Top Langs](https://github-readme-stats.aemiej.vercel.app/api/top-langs/?username=sourabh080299&theme=dark&layout=compact&show_icons=true&hide_border=true&private=true)
-<hr/>
+
 ### Connect with me
 [<img align="left" alt="LinkedIn" width="80" src="https://github.com/melanieshi0120/melanieshi0120/blob/master/linkedin.ico" />]( https://www.linkedin.com/in/sourabh080299/)
 [<img align="left" alt="mail" width="40" src="./mail.jpg" />](<mailto:psourabh080299@gmail.com>)
 <br />
-
+<hr/>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Sourabh080299&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="Sourabh080299" /></p>
 
 <!--
