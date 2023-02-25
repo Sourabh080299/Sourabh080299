@@ -25,7 +25,7 @@
 <hr/>
 
 ## Profile Views 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sourabh080299)](https://github.com/anuraghazra/github-readme-stats)<br/><br/>
+[![Sourabh's GitHub stats](https://github-readme-stats.vercel.app/api?username=sourabh080299)](https://github.com/anuraghazra/github-readme-stats)<br/><br/>
 ![](https://komarev.com/ghpvc/?username=sourabh080299&color=green)
 <hr/>
 
